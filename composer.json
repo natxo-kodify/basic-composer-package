@@ -1,0 +1,19 @@
+{
+    "name": "adriacidre/basic",
+    "description": "My cool basic package.",
+    "authors": [
+        {
+            "name": "Adrià Cidre",
+            "email": "adria.cidre@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Basic": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
